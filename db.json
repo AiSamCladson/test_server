@@ -1,0 +1,17 @@
+{
+  "123": {
+    "filename": "District and Council Border",
+    "loaded": false,
+    "url": "https://leopublicdatasets.s3-accelerate.amazonaws.com/Oxfordshire+Lad+Boundary+District.csv"
+  },
+  "234": {
+    "filename": "Oxford PV",
+    "loaded": false,
+    "url": "https://leopublicdatasets.s3-accelerate.amazonaws.com/Oxford_PV.csv"
+  },
+  "321": {
+    "filename": "Listed Buildings",
+    "loaded": false,
+    "url": "https://leopublicdatasets.s3-accelerate.amazonaws.com/Environment+%E2%80%94+LISTED_BUILDINGS.csv"
+  }
+}
